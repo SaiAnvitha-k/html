@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>BTS Army</title>
+    </head>
+    <body>
+        <div>
+            <!--Header section-->
+            <div>
+                <img width="100" height="100" src="image/bts image ot7.jpg"/>
+            </div>
+            <!--Main section-->
+            <div>
+                <!--Sidenav-->
+                <div>
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Members</a></li>
+                        <li><a href="#">Albums</a></li>
+                        <li><a href="#">Songs</a></li>
+                        <li><a href="#">About</a></li>
+                    </ul>
+                </div>
+                <!--Text container-->
+                <div> 
+                    <h1>BTS ARMY</h1>
+                    <h3>BTS also known as Bangtan boys is a seven members group:RM,Jin,Suga,Jhope,Jimin,V,JK.</h3>
+                    <h3>They debuted in 2013 with their single album 2 COOL 4 skool.</h3>
+                    <h3>They are the first kpop group to recieve a Grammy Award Nomination.</h3>
+                    <h3>Army is BTS's official fandom name.</h3>
+                </div>
+            </div>
+         </div>
+    </body>
+    
+</html>
