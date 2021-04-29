@@ -1,0 +1,66 @@
+<html>
+    <head>
+        <title>BTS Army</title>
+        <meta content="width=device-width">
+    </head>
+    <style>
+        body{
+            background-color: plum;
+        }
+        h1{
+            font-size: x-large;
+            font-family: sans-serif;
+            position: relative;
+        }
+        h3{
+            position: relative;
+            font-family: sans-serif;
+        }
+        img{
+            position: absolute;
+            left: 1000px;
+            top: 20px;
+        }
+        p{
+            position: relative;
+            font-family: sans-serif;
+        }
+    </style>
+    <body>
+        <div>
+            <!--Header section-->
+            <div>
+                <h1>BTS ARMY</h1>
+            </div>
+            <!--Main section-->
+            <div>
+                <!--Sidenav-->
+                <div>
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Members</a></li>
+                        <li><a href="#">Albums</a></li>
+                        <li><a href="#">Songs</a></li>
+                        <li><a href="#">About</a></li>
+                    </ul>
+                </div>
+                <!--Text container-->
+                <div>
+                    <img src="C:\Users\anvitha\OneDrive\Desktop\html_sample\image\bts image ot7.jpg" width="250" height="250" alt="BTS image">
+                </div>
+                <div> 
+                    <h3>BTS also known as Bangtan boys is a seven members group:RM,Jin,Suga,Jhope,Jimin,V,JK.</h3>
+                    <h3>They debuted in 2013 with their single album 2 COOL 4 skool.</h3>
+                    <h3>They are the first kpop group to receive a Grammy Award Nominaton.</h3>
+                   <h3>Army is BTS's official fandom name.</h3> 
+                </div>
+                <div>
+                    <p>
+                        On March 4, 2021, the IFPI named BTS its Global Recording Artist of the Year for 2020—they are the first non-English and Asian act to top the ranking. BTS occupied three spots in the Global Album Sales Chart of 2020 with Map of the Soul: 7 coming at number one, Be (Deluxe Edition) at number two and Map of the Soul: 7 – The Journey at number eight. In the newly launched Global Album All Format Chart, Map of the Soul: 7 claimed the first position while Be (Deluxe Edition) claimed the fourth position. BTS also made their first entry in the Global Digital Single Chart of 2020 with "Dynamite" at number ten. On March 14, BTS performed their song "Dynamite" at the 63rd Annual Grammy Awards, becoming the first Korean nominee to have their own Grammy performance. It was also their third appearance at the Grammys.The group's sixth compilation album, BTS, the Best is scheduled for release on June 16, 2021.On March 24, BTS appeared on You Quiz on the Block, a South Korean variety show program, where they broke the show's rating records for viewership.On April 1, BTS released "Film Out", their lead single for their upcoming compilation album.On April 17, almost 1 year after last year's compilation concert, BTS held another compilation concert on their YouTube channel titled Bang Bang Con 21, starting at 3 PM KST containing 3 of their previous in-person concerts.On April 26, BTS held a 1-hour livestream countdown featuring a melting cube of butter. Marking the end of the countdown, it was revealed that they are coming back on May 21 with their second English-language single, "Butter".
+                    </p>
+                </div>
+            </div>
+         </div>
+    </body>
+    
+</html>
