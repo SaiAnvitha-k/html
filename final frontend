@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+
+    <title>BTS ARMY</title>
+  </head>
+  <body style="background-color: plum;">
+    <h1 class="text-center" style="font-family: sans-serif;">BTS ARMY</h1>
+    <!-- Navbar -->
+    <!-- As a link -->
+    <div class="container">
+    <div class="row">
+        <div class="col-sm-3">
+    <nav class="navbar navbar-light" style="background-color: plum;">
+    <div class="container-fluid">
+      <a class="navbar-brand; nav-link active;" href="#">Home</a>
+    </div>
+  </nav>
+  <nav class="navbar navbar-light" style="background-color: plum;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Members</a>
+    </div>
+  </nav>
+  <nav class="navbar navbar-light" style="background-color: plum;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Albums</a>
+    </div>
+  </nav>
+  <nav class="navbar navbar-light" style="background-color: plum;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Songs</a>
+    </div>
+  </nav>
+  <nav class="navbar navbar-light" style="background-color: plum;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">About</a>
+    </div>
+  </nav>
+  <nav class="navbar navbar-light" style="background-color: plum;">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Contact us</a>
+    </div>
+    </div>
+  </nav>
+  <!-- Services offered -->
+<div class="col-sm">
+        <h4 class="text-center">BTS also known as Bangtan boys is a seven members group:RM,Jin,Suga,Jhope,Jimin,V,JK.</h4>
+        <h4 class="text-center">They debuted in 2013 with their single album 2 COOL 4 skool.</h4>
+        <h4 class="text-center">They are the first kpop group to receive a Grammy Award Nominaton.</h4>
+        <h4 class="text-center">Army is BTS's official fandom name.</h4>
+        <h4 class="text-center">The group has released several albums and performed on several world tours.</h4>
+    </div>
+      <!-- Gallery -->
+    <div class="col-sm">
+<section id="gallery" class="container">
+    <div>
+        <div>
+            <img src="bts image ot7.jpg" alt="BTS Members" width="100%" height="auto">
+        </div>
+        </div>
+    </div>
+</section>
+    </div>
+</nav>
+<!-- Services offered -->
+<section id="services_offered" class="container" style="font-family: sans-serif;">
+    <p>On March 4, 2021, the IFPI named BTS its Global Recording Artist of the Year for 2020—they are the first non-English and Asian act to top the ranking. BTS occupied three spots in the Global Album Sales Chart of 2020 with Map of the Soul: 7 coming at number one, Be (Deluxe Edition) at number two and Map of the Soul: 7 – The Journey at number eight. In the newly launched Global Album All Format Chart, Map of the Soul: 7 claimed the first position while Be (Deluxe Edition) claimed the fourth position. BTS also made their first entry in the Global Digital Single Chart of 2020 with "Dynamite" at number ten. On March 14, BTS performed their song "Dynamite" at the 63rd Annual Grammy Awards, becoming the first Korean nominee to have their own Grammy performance. It was also their third appearance at the Grammys.The group's sixth compilation album, BTS, the Best is scheduled for release on June 16, 2021.On March 24, BTS appeared on You Quiz on the Block, a South Korean variety show program, where they broke the show's rating records for viewership.On April 1, BTS released "Film Out", their lead single for their upcoming compilation album.On April 17, almost 1 year after last year's compilation concert, BTS held another compilation concert on their YouTube channel titled Bang Bang Con 21, starting at 3 PM KST containing 3 of their previous in-person concerts.On April 26, BTS held a 1-hour livestream countdown featuring a melting cube of butter. Marking the end of the countdown, it was revealed that they are coming back on May 21 with their second English-language single, "Butter".</p>
+</section>
+
+<!-- Footer -->
+<footer>
+    <div class="row">
+    <div class="col-sm-4">
+        <ul>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Privacy policy</a></li>
+            <li><a href="#">Terms and Conditions</a></li>
+        </ul>
+    </div>
+    <div class="col-sm-4">
+        <p>Phone : 000000000</p>
+        <p>Email : help@bangtanarmy.com</p>
+    </div>
+    </div>
+</footer>
+  </body>
+</html>
